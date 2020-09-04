@@ -1,0 +1,17 @@
+D:\Estudos\Projetos\.Net Core\alura\LeilaoOnline\Alura.LeilaoOnline.Console\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.dll
+D:\Estudos\Projetos\.Net Core\alura\LeilaoOnline\Alura.LeilaoOnline.Console\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.Console.csprojAssemblyReference.cache
+D:\Estudos\Projetos\.Net Core\alura\LeilaoOnline\Alura.LeilaoOnline.Console\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.Console.AssemblyInfoInputs.cache
+D:\Estudos\Projetos\.Net Core\alura\LeilaoOnline\Alura.LeilaoOnline.Console\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.Console.AssemblyInfo.cs
+D:\Estudos\Projetos\.Net Core\alura\LeilaoOnline\Alura.LeilaoOnline.Console\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.Console.csproj.ResolveComReference.cache
+D:\Estudos\Projetos\.Net Core\alura\LeilaoOnline\Alura.LeilaoOnline.Console\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Console.exe
+D:\Estudos\Projetos\.Net Core\alura\LeilaoOnline\Alura.LeilaoOnline.Console\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Console.deps.json
+D:\Estudos\Projetos\.Net Core\alura\LeilaoOnline\Alura.LeilaoOnline.Console\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Console.runtimeconfig.json
+D:\Estudos\Projetos\.Net Core\alura\LeilaoOnline\Alura.LeilaoOnline.Console\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Console.runtimeconfig.dev.json
+D:\Estudos\Projetos\.Net Core\alura\LeilaoOnline\Alura.LeilaoOnline.Console\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Console.dll
+D:\Estudos\Projetos\.Net Core\alura\LeilaoOnline\Alura.LeilaoOnline.Console\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Console.pdb
+D:\Estudos\Projetos\.Net Core\alura\LeilaoOnline\Alura.LeilaoOnline.Console\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.pdb
+D:\Estudos\Projetos\.Net Core\alura\LeilaoOnline\Alura.LeilaoOnline.Console\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.Console.csproj.CoreCompileInputs.cache
+D:\Estudos\Projetos\.Net Core\alura\LeilaoOnline\Alura.LeilaoOnline.Console\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.Console.csproj.CopyComplete
+D:\Estudos\Projetos\.Net Core\alura\LeilaoOnline\Alura.LeilaoOnline.Console\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.Console.dll
+D:\Estudos\Projetos\.Net Core\alura\LeilaoOnline\Alura.LeilaoOnline.Console\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.Console.pdb
+D:\Estudos\Projetos\.Net Core\alura\LeilaoOnline\Alura.LeilaoOnline.Console\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.Console.genruntimeconfig.cache
